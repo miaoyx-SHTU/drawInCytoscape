@@ -24,4 +24,8 @@ use follow website to learn about Cytoscape network layout
 
 one paper with beautiful network: Transmission heterogeneities, kinetics, and controllability of SARS-CoV-2 https://www.science.org/doi/10.1126/science.abe2424
 
+![图片](https://www.science.org/cms/10.1126/science.abe2424/asset/eda71869-b5a6-40ec-9a30-ea4d3a3f4420/assets/graphic/371_abe2424_f1.jpeg)
+
 one paper with network like what i want: Coinfinder: detecting significant associations and dissociations in pangenomes https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000338?crawler=true
+
+![图片](https://www.microbiologyresearch.org/docserver/ahah/fulltext/mgen/6/3/mgen000338-f1_thmb.gif)
